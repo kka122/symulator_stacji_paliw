@@ -1,0 +1,5 @@
+[
+  {"id": 1, "rodzaj_paliwa": "ON",       "pojemnosc": 5000},
+  {"id": 2, "rodzaj_paliwa": "PB",       "pojemnosc": 3000},
+  {"id": 3, "rodzaj_paliwa": "electric", "pojemnosc": 1000}
+]

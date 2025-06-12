@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transakcje><transakcja><id>1</id><paliwo>ON</paliwo><ilosc>22.0</ilosc><cena_litr>2.3</cena_litr><cena_calkowita>50.6</cena_calkowita><czas>2025-06-13T00:37:34.664037</czas></transakcja><transakcja><id>2</id><paliwo>PB</paliwo><ilosc>23.0</ilosc><cena_litr>22.0</cena_litr><cena_calkowita>506.0</cena_calkowita><czas>2025-06-13T00:38:53.240661</czas></transakcja></transakcje>

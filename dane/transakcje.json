@@ -1,0 +1,10 @@
+[
+  {
+    "id_dystrybutora": 1,
+    "rodzaj_paliwa": "ON",
+    "ilosc": 10,
+    "cena_za_litr": 5.5,
+    "cena_calkowita": 55.0,
+    "czas": "2025-06-13T12:00:00"
+  }
+]
